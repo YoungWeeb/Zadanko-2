@@ -1,0 +1,5 @@
+Dane klienta: 
+ nazwisko: Bugahjsji imie:  Hubert
+ Adres: e112
+Zamówienie: Rum:, Wino:, 
+złożono: poniedziałek, 20 12 2021

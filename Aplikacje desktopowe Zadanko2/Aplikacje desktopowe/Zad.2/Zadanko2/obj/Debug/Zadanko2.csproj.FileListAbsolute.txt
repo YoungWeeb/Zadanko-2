@@ -1,0 +1,30 @@
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe.config
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\bin\Debug\Zadanko2.pdb
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csprojAssemblyReference.cache
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Form1.resources
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Properties.Resources.resources
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.exe
+C:\Users\macie\source\repos\Zadanko2\Zadanko2\obj\Debug\Zadanko2.pdb
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe.config
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\bin\Debug\Zadanko2.pdb
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csprojAssemblyReference.cache
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Form1.resources
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Properties.Resources.resources
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.GenerateResource.cache
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.CoreCompileInputs.cache
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.exe
+C:\Users\vivat\Desktop\Nowy folder\Zajeciaa-main\Zajeciaa-main\Zadanko2\Zadanko2\obj\Debug\Zadanko2.pdb
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\bin\Debug\Zadanko2.exe.config
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\bin\Debug\Zadanko2.exe
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\bin\Debug\Zadanko2.pdb
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.csprojAssemblyReference.cache
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.Form1.resources
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.Properties.Resources.resources
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.csproj.GenerateResource.cache
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.csproj.CoreCompileInputs.cache
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.exe
+C:\Users\vivat\Desktop\Nowy folder\Aplikacje desktopowe\Aplikacje desktopowe\Zad.2\Zadanko2\obj\Debug\Zadanko2.pdb

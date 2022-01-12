@@ -1,0 +1,11 @@
+Dane klienta: 
+ nazwisko: sdfg imie:  gdfs
+ Dane kontaktowe: 
+Adres: dsfg
+Telefon: dfsg
+Zamówienie: gdfsdgfdsfgb, 
+złożono: poniedziałek, 20 12 2021
+złożono: poniedziałek, 20 12 2021
+złożono: poniedziałek, 20 12 2021
+złożono: poniedziałek, 20 12 2021
+złożono: poniedziałek, 20 12 2021
